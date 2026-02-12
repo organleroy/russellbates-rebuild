@@ -1,4 +1,4 @@
-export default function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   // Copy static assets through to _site
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
@@ -10,7 +10,7 @@ export default function(eleventyConfig) {
     dir: {
       input: "src",
       output: "_site",
-      includes: "_includes"
-    }
+      includes: "_includes",
+    },
   };
-}
+};
