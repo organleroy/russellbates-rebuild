@@ -2,10 +2,11 @@ export default function(eleventyConfig) {
   // Copy static assets through to _site
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
-  // Keep output URLs nice (/work/slug/)
+  // Dev server port
   eleventyConfig.setServerOptions({ port: 8080 });
 
   return {
+    pathPrefix: process.env.PATH_PREFIX || "/",
     dir: {
       input: "src",
       output: "_site",
