@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title or "Russell Bates" }}</title>
+  <link rel="preconnect" href="https://player.vimeo.com">
+  <link rel="preconnect" href="https://i.vimeocdn.com">
+  <link rel="stylesheet" href="/assets/css/site.css" />
+</head>
+<body class="{{ bodyClass or '' }}">
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="/">Russell Bates</a>
+      <div class="nav-links">
+        <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}>Work</a>
+        <a href="/about/" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About/Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <small>© {{ "now" | date("yyyy") }} Russell Bates</small>
+  </footer>
+</body>
+</html>

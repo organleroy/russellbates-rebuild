@@ -1,0 +1,13 @@
+{
+  "name": "russellbates-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "extract": "python3 scripts/extract_from_simply_static.py ../simply_static_export"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

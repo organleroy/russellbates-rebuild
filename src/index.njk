@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: Russell Bates — Work
+---
+{% set featured = collections.featuredHome %}
+<div class="grid">
+  {# Use featuredHome if present, else fall back to all projects #}
+  {% set list = featured | length > 0 ? featured : collections.projects %}
+  {% for p in list %}
+    <article class="tile">
+      <img loading="lazy" src="{{ p.data.thumb | url }}" alt="{{ p.data.title }}" />
+      <a href="{{ p.url }}"></a>
+      <div class="meta">
+        <h3>{{ p.data.title | safe }}</h3>
+        {% if p.data.subtitle %}<p>{{ p.data.subtitle }}</p>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>

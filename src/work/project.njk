@@ -1,0 +1,52 @@
+---
+layout: base.njk
+pagination:
+  data: projects
+  size: 1
+  alias: project
+permalink: "/work/{{ project.slug }}/"
+---
+<h1 class="page-title">{{ project.title | safe }}</h1>
+
+<div class="video">
+  <iframe
+    src="https://player.vimeo.com/video/{{ project.vimeo_id }}?title=0&byline=0&portrait=0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    loading="lazy"></iframe>
+</div>
+
+{% if project.blurb %}
+  <div class="prose">
+    <p>{{ project.blurb }}</p>
+  </div>
+{% endif %}
+
+<section class="featured-strip">
+  <div class="section-head">
+    <h2>Featured Work</h2>
+    <a href="/">More &gt;</a>
+  </div>
+
+  <div class="grid">
+    {% set picks = project.featured_slugs or [] %}
+    {% if picks | length == 0 %}
+      {# fallback: first 6 homepage featured #}
+      {% set picks = (featuredHomeSlugs or []) %}
+    {% endif %}
+
+    {% for slug in picks %}
+      {% set fp = projectBySlug[slug] %}
+      {% if fp %}
+        <article class="tile">
+          <img loading="lazy" src="{{ fp.thumb | url }}" alt="{{ fp.title }}" />
+          <a href="/work/{{ fp.slug }}/"></a>
+          <div class="meta">
+            <h3>{{ fp.title | safe }}</h3>
+            {% if fp.subtitle %}<p>{{ fp.subtitle }}</p>{% endif %}
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
