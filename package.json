@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --config=.eleventy.cjs --serve",
+    "build": "npx @11ty/eleventy --config=.eleventy.cjs",
     "extract": "python3 scripts/extract_from_simply_static.py ../simply_static_export"
   },
   "devDependencies": {
