@@ -3,25 +3,55 @@ layout: base.njk
 title: Russell Bates — Work
 ---
 
-{% set featured = collections.featuredHome %}
-
 <div class="grid">
-  {# Use featuredHome if present, else fall back to all projects #}
-  {% if featured and featured | length > 0 %}
-    {% set list = featured %}
-  {% else %}
-    {% set list = collections.projects %}
-  {% endif %}
+  {% set shown = 0 %}
+  {% for project in projects %}
+    {% if shown < 39 %}
 
-  {% for project in list %}
-    <a class="card" href="{{ project.url }}">
-      <div class="card-media">
-        <img src="{{ project.data.thumbnail }}" alt="{{ project.data.title }}">
-        <div class="card-overlay"></div>
-      </div>
-      <div class="card-title">
-        {{ project.data.title }}
-      </div>
-    </a>
+      {# OUTLIER DETECTION (prevents pillarboxing)
+         1) Use thumbMeta.isOutlier if present
+         2) Else fallback: if thumb filename is not the standard -500x350, treat as outlier
+      #}
+      {% set isOutlier = false %}
+      {% if project.thumbMeta and project.thumbMeta.isOutlier %}
+        {% set isOutlier = true %}
+      {% elseif project.thumb and ('-500x350' not in project.thumb) %}
+        {% set isOutlier = true %}
+      {% endif %}
+
+      <a
+        class="card{% if isOutlier %} is-outlier{% endif %}"
+        href="{{ ('/work/' + project.slug + '/') | url }}"
+      >
+        <div class="card-media">
+          <img src="{{ project.thumb | url }}" alt="{{ project.title }}">
+
+          <div class="card-meta">
+            <h3 class="card-head">
+              {% if project.brand %}
+                <span class="card-brand">{{ project.brand | upper }}</span>
+              {% endif %}
+              <span class="card-title-text">"{{ project.spot | upper }}"</span>
+            </h3>
+
+            {# Subhead rule:
+               - Prefer subtitle/subhed
+               - If blank, fall back to agency
+            #}
+            {% set sub = (project.subhed or project.subtitle or '') | trim %}
+            {% set ag = (project.agency or '') | trim %}
+            {% set line3 = sub or ag %}
+
+            {% if line3 %}
+              <p class="card-subhed">{{ line3 }}</p>
+            {% endif %}
+          </div>
+
+          <div class="card-overlay"></div>
+        </div>
+      </a>
+
+      {% set shown = shown + 1 %}
+    {% endif %}
   {% endfor %}
 </div>

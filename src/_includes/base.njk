@@ -3,20 +3,39 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ title or "Russell Bates" }}</title>
+  <title>{{ title }}</title>
+
   <link rel="preconnect" href="https://player.vimeo.com">
   <link rel="preconnect" href="https://i.vimeocdn.com">
-  <link rel="stylesheet" href="/assets/css/site.css" />
+
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}" />
 </head>
-<body class="{{ bodyClass or '' }}">
+
+<body>
+
   <header class="site-header">
-    <nav class="nav">
-      <a class="brand" href="/">Russell Bates</a>
-      <div class="nav-links">
-        <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}>Work</a>
-        <a href="/about/" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About/Contact</a>
-      </div>
-    </nav>
+    <div class="site-header-inner">
+      <nav class="nav">
+
+        <a href="{{ '/' | url }}" class="brand">
+          <span class="brand-name">Russell Bates</span>
+          <span class="brand-role">Director</span>
+        </a>
+
+        <div class="nav-links">
+          <a href="{{ '/' | url }}"
+             {% if page.url == '/' %}aria-current="page"{% endif %}>
+            Work
+          </a>
+
+          <a href="{{ '/about/' | url }}"
+             {% if page.url == '/about/' %}aria-current="page"{% endif %}>
+            About/Contact
+          </a>
+        </div>
+
+      </nav>
+    </div>
   </header>
 
   <main class="site-main">
@@ -24,7 +43,16 @@
   </main>
 
   <footer class="site-footer">
-    <small>© {{ "now" | date("yyyy") }} Russell Bates</small>
+    <div class="site-footer-inner">
+      <h3 class="rep-title">Representation</h3>
+
+      <ul class="rep-list">
+        <li>UK: <a href="https://www.darkenergyfilms.com/directors/russell-bates" target="_blank" rel="noopener">Dark Energy</a></li>
+        <li>Western Europe: <a href="https://gesas.net/directors/russel-bates/?category=friends-fiction" target="_blank" rel="noopener">Gesas</a></li>
+        <li>Eastern Europe + Asia: <a href="http://goeast.tv/" target="_blank" rel="noopener">Go East Films</a></li>
+      </ul>
+    </div>
   </footer>
+
 </body>
 </html>

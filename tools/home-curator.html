@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Home Curator — russellbates.com</title>
+  <style>
+    body{ font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 18px; line-height: 1.35; }
+    h1{ margin: 0 0 10px; font-size: 18px; letter-spacing: 0.5px; }
+    .row{ display: grid; grid-template-columns: 1fr 1fr; gap: 14px; align-items: start; }
+    textarea{ width: 100%; height: 260px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-size: 12px; }
+    button{ padding: 10px 12px; border: 1px solid #333; background: #111; color: #fff; border-radius: 10px; cursor: pointer; font-weight: 600; }
+    button.secondary{ background: #fff; color: #111; }
+    .controls{ display: flex; gap: 10px; align-items: center; margin: 10px 0 14px; flex-wrap: wrap; }
+    .hint{ color: #444; font-size: 12px; margin: 6px 0 0; }
+    .list{ border: 1px solid #ddd; border-radius: 10px; padding: 10px; background: #fafafa; }
+    .item{ display: flex; gap: 10px; align-items: baseline; padding: 8px 10px; background: #fff; border: 1px solid #eee; border-radius: 10px; margin: 8px 0; }
+    .item[draggable="true"]{ cursor: grab; }
+    .slug{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-size: 12px; color: #222; }
+    .title{ font-size: 13px; color: #111; }
+    .meta{ font-size: 12px; color: #666; margin-left: auto; }
+    .dragOver{ outline: 2px dashed #999; }
+    .search{ width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Home Curator (local-only)</h1>
+
+  <p class="hint">
+    This tool is local-only. It does NOT affect the live site until you export and paste the result into:
+    <code>src/_data/home.json</code>.
+    <br><br>
+    Workflow:
+    <br>
+    1) Paste the entire JSON array from <code>src/content/projects.json</code> into the left box.
+    <br>
+    2) Click <b>Load featured_home only</b>.
+    <br>
+    3) Drag rows to reorder the “flow”.
+    <br>
+    4) Click <b>Export</b>. It will export ONLY the first <b>39</b> items.
+    <br>
+    5) Paste the exported JSON into <code>src/_data/home.json</code>.
+  </p>
+
+  <div class="row">
+    <div>
+      <h2 style="font-size:14px;margin:12px 0 8px;">Paste projects.json here</h2>
+      <textarea id="jsonIn" spellcheck="false" placeholder='Paste the entire JSON array from src/content/projects.json here...'></textarea>
+
+      <div class="controls">
+        <button id="loadFeaturedBtn" title="Loads only featured_home:true into the list">Load featured_home only</button>
+        <button id="loadBtn" class="secondary" title="Loads ALL projects into the list (usually not what you want)">Load all projects</button>
+      </div>
+
+      <p class="hint">
+        Use <b>Load featured_home only</b> in almost all cases.
+      </p>
+    </div>
+
+    <div>
+      <h2 style="font-size:14px;margin:12px 0 8px;">Home order (drag to reorder)</h2>
+      <input id="search" class="search" placeholder="Filter list by title or slug…" />
+      <div id="list" class="list" aria-label="Draggable list"></div>
+
+      <div class="controls">
+        <button id="exportBtn">Export first 39</button>
+        <button id="copyBtn" class="secondary">Copy export</button>
+      </div>
+
+      <h2 style="font-size:14px;margin:12px 0 8px;">Export output</h2>
+      <textarea id="jsonOut" spellcheck="false" placeholder="Export appears here..."></textarea>
+
+      <p class="hint">
+        The export is exactly what you paste into <code>src/_data/home.json</code>.
+      </p>
+    </div>
+  </div>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+
+  const HOME_LIMIT = 39;
+
+  let allProjects = [];
+  let working = [];
+
+  function safeParse(jsonText) {
+    try {
+      const parsed = JSON.parse(jsonText);
+      if (!Array.isArray(parsed)) throw new Error("projects.json must be a JSON array.");
+      return parsed;
+    } catch (e) {
+      alert("Could not parse JSON. Make sure you pasted the FULL JSON array from src/content/projects.json.\n\n" + e.message);
+      return null;
+    }
+  }
+
+  function normalize(p) {
+    return {
+      slug: String(p.slug || "").trim(),
+      title: String(p.title || "").trim(),
+      featured_home: !!p.featured_home
+    };
+  }
+
+  function renderList(filterText = "") {
+    const list = $("list");
+    list.innerHTML = "";
+
+    const ft = filterText.trim().toLowerCase();
+    const visible = working.filter(p => {
+      if (!ft) return true;
+      return (p.slug.toLowerCase().includes(ft) || p.title.toLowerCase().includes(ft));
+    });
+
+    visible.forEach((p) => {
+      const el = document.createElement("div");
+      el.className = "item";
+      el.draggable = true;
+      el.dataset.slug = p.slug;
+
+      el.innerHTML = `
+        <div class="slug">${p.slug}</div>
+        <div class="title">${p.title || ""}</div>
+        <div class="meta">${p.featured_home ? "featured_home:true" : "featured_home:false"}</div>
+      `;
+
+      el.addEventListener("dragstart", (ev) => {
+        ev.dataTransfer.setData("text/plain", p.slug);
+        ev.dataTransfer.effectAllowed = "move";
+      });
+
+      el.addEventListener("dragover", (ev) => {
+        ev.preventDefault();
+        el.classList.add("dragOver");
+        ev.dataTransfer.dropEffect = "move";
+      });
+
+      el.addEventListener("dragleave", () => el.classList.remove("dragOver"));
+
+      el.addEventListener("drop", (ev) => {
+        ev.preventDefault();
+        el.classList.remove("dragOver");
+
+        const draggedSlug = ev.dataTransfer.getData("text/plain");
+        const targetSlug = p.slug;
+        if (!draggedSlug || draggedSlug === targetSlug) return;
+
+        const from = working.findIndex(x => x.slug === draggedSlug);
+        const to = working.findIndex(x => x.slug === targetSlug);
+        if (from === -1 || to === -1) return;
+
+        const [moved] = working.splice(from, 1);
+        working.splice(to, 0, moved);
+
+        renderList($("search").value);
+      });
+
+      list.appendChild(el);
+    });
+
+    if (visible.length === 0) {
+      const empty = document.createElement("div");
+      empty.style.padding = "10px";
+      empty.style.color = "#666";
+      empty.textContent = "No matches.";
+      list.appendChild(empty);
+    }
+  }
+
+  function load(mode) {
+    const parsed = safeParse($("jsonIn").value);
+    if (!parsed) return;
+
+    allProjects = parsed.map(normalize).filter(p => p.slug);
+
+    if (mode === "featured") {
+      working = allProjects.filter(p => p.featured_home);
+    } else {
+      working = allProjects.slice();
+    }
+
+    renderList($("search").value);
+    alert(`Loaded ${working.length} items into the curator.`);
+  }
+
+  function exportHomeJSON() {
+    // Export only the first HOME_LIMIT rows
+    const pinnedSlugs = working.slice(0, HOME_LIMIT).map(p => p.slug);
+
+    const out = {
+      homeLimit: HOME_LIMIT,
+      pinnedSlugs
+    };
+
+    $("jsonOut").value = JSON.stringify(out, null, 2);
+  }
+
+  $("loadFeaturedBtn").addEventListener("click", () => load("featured"));
+  $("loadBtn").addEventListener("click", () => load("all"));
+  $("exportBtn").addEventListener("click", exportHomeJSON);
+
+  $("copyBtn").addEventListener("click", async () => {
+    const txt = $("jsonOut").value.trim();
+    if (!txt) return alert("Nothing to copy. Click Export first.");
+    try {
+      await navigator.clipboard.writeText(txt);
+      alert("Export copied to clipboard.");
+    } catch (e) {
+      alert("Could not copy automatically. Select the Export output and copy manually.");
+    }
+  });
+
+  $("search").addEventListener("input", (e) => renderList(e.target.value));
+</script>
+</body>
+</html>

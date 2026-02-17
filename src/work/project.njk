@@ -6,7 +6,11 @@ pagination:
   alias: project
 permalink: "/work/{{ project.slug }}/"
 ---
-<h1 class="page-title">{{ project.title | safe }}</h1>
+
+<h1 class="project-title">
+  <span class="project-title-brand">{{ project.brand | upper }}</span>
+  <span class="project-title-spot">"{{ project.spot | upper }}"</span>
+</h1>
 
 <div class="video">
   <iframe
@@ -16,37 +20,82 @@ permalink: "/work/{{ project.slug }}/"
     loading="lazy"></iframe>
 </div>
 
-{% if project.blurb %}
-  <div class="prose">
-    <p>{{ project.blurb }}</p>
+{# CREDITS UNDER VIDEO
+   - subtitle: descriptive (e.g. starring...)
+     Prefer normalized `subhed` (projects.cjs maps subtitle -> subhed for compatibility)
+   - agency: agency/production (preferred)
+   - fallback: blurb if agency is missing (for older entries / legacy templates)
+   - never duplicate identical lines
+#}
+
+{% set sub = (project.subhed or project.subtitle or '') | trim %}
+{% set agency = (project.agency or '') | trim %}
+{% set bl = (project.blurb or '') | trim %}
+
+{# pick a second-line credit: agency first, else blurb #}
+{% set credit = agency or bl %}
+
+{% if sub or credit %}
+  <div class="project-credits">
+    {% if sub %}
+      <div class="project-subline">{{ sub }}</div>
+    {% endif %}
+
+    {% if credit and (credit | lower) != (sub | lower) %}
+      <div class="project-agency">{{ credit }}</div>
+    {% endif %}
   </div>
 {% endif %}
 
 <section class="featured-strip">
   <div class="section-head">
-    <h2>Featured Work</h2>
-    <a href="/">More &gt;</a>
+    <h2 class="section-title">FEATURED WORK</h2>
+    <a class="section-more" href="/">MORE &gt;</a>
   </div>
 
-  <div class="grid">
-    {% set picks = project.featured_slugs or [] %}
-    {% if picks | length == 0 %}
-      {# fallback: first 6 homepage featured #}
-      {% set picks = (featuredHomeSlugs or []) %}
-    {% endif %}
+  {% set picks = project.featured_slugs or [] %}
+  {% if picks | length == 0 %}
+    {% set picks = (featuredHomeSlugs or []) %}
+  {% endif %}
 
-    {% for slug in picks %}
-      {% set fp = projectBySlug[slug] %}
+  <div class="grid featured-grid">
+    {% for pick in picks %}
+
+      {% set k1 = pick %}
+      {% set k2 = pick | replace('_','-') %}
+      {% set k3 = pick | replace('-','_') %}
+
+      {% set fp = projectBySlug[k1] or projectBySlug[k2] or projectBySlug[k3] %}
+
       {% if fp %}
-        <article class="tile">
-          <img loading="lazy" src="{{ fp.thumb | url }}" alt="{{ fp.title }}" />
-          <a href="/work/{{ fp.slug }}/"></a>
-          <div class="meta">
-            <h3>{{ fp.title | safe }}</h3>
-            {% if fp.subtitle %}<p>{{ fp.subtitle }}</p>{% endif %}
+        {% set isOutlier = false %}
+        {% if fp.thumbMeta and fp.thumbMeta.isOutlier %}
+          {% set isOutlier = true %}
+        {% elseif fp.thumb and ('-500x350' not in fp.thumb) %}
+          {% set isOutlier = true %}
+        {% endif %}
+
+        <a class="card{% if isOutlier %} is-outlier{% endif %}" href="/work/{{ fp.slug }}/">
+          <div class="card-media">
+            <img loading="lazy" src="{{ fp.thumb | url }}" alt="{{ fp.title }}" />
+
+            <div class="card-meta">
+              <h3 class="card-head">
+                <span class="card-brand">{{ fp.brand | upper }}</span>
+                <span class="card-title-text">"{{ fp.spot | upper }}"</span>
+              </h3>
+
+              {% set fpSub = (fp.subhed or fp.subtitle or '') | trim %}
+              {% if fpSub %}
+                <p class="card-subhed">{{ fpSub }}</p>
+              {% endif %}
+            </div>
+
+            <div class="card-overlay" aria-hidden="true"></div>
           </div>
-        </article>
+        </a>
       {% endif %}
+
     {% endfor %}
   </div>
 </section>

@@ -1,1 +1,2382 @@
-[]
+[
+  {
+    "title": "Snickers \"A Buzz Mistake\"",
+    "vimeo_id": "927789616",
+    "vimeo_src": "https://player.vimeo.com/video/927789616?title=0&byline=0&portrait=0",
+    "agency": "T&Pm",
+    "og_image": "/assets/uploads/2024/03/Snickers-Saka-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "snickers-buzz-mistake",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2024/03/Snickers-Saka-500x350.jpg",
+    "subtitle": "Starring Bukayo Saka and Luka Modrić"
+  },
+  {
+    "title": "Streets For All \"Obstacle\"",
+    "vimeo_id": "808897288",
+    "vimeo_src": "https://player.vimeo.com/video/808897288?title=0&byline=0&portrait=0",
+     "agency": "",
+    "og_image": "/assets/uploads/2023/03/streetsforall1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "streets-for-all_obstacle",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2023/03/streetsforall1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Jura \"Roger vs. Robot\"",
+    "vimeo_id": "239157365",
+    "vimeo_src": "https://player.vimeo.com/video/239157365?title=0&byline=0&portrait=0",
+    "agency": "Publicis Zurich",
+    "og_image": "/assets/uploads/2019/09/Jura-Federer2-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "jura-federer-robot",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2019/09/Jura-Federer2-500x350.jpg",
+    "subtitle": "starring Roger Federer"
+  },
+  {
+    "title": "Jimdo \"Work Like Four\"",
+    "vimeo_id": "365378970",
+    "vimeo_src": "https://player.vimeo.com/video/365378970?title=0&byline=0&portrait=0",
+    "agency": "",
+    "og_image": "/assets/uploads/2019/10/Jimdo1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "jimdo-work_like_four",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2019/10/Jimdo1-500x350.jpg",
+    "subtitle": "starring Neil Patrick Harris"
+  },
+  {
+    "title": "VW \"Back Home\"",
+    "vimeo_id": "942071421",
+    "vimeo_src": "https://player.vimeo.com/video/942071421?title=0&byline=0&portrait=0",
+    "agency": "Adam & Eve / DDB",
+    "og_image": "/assets/uploads/2015/11/Back-Home-edit2.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "vw-back_home",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2015/11/Back-Home-edit2-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Müller \"The Race\"",
+    "vimeo_id": "376281627",
+    "vimeo_src": "https://player.vimeo.com/video/376281627?title=0&byline=0&portrait=0",
+    "agency": "VCCP London",
+    "og_image": "/assets/uploads/2019/10/the_race-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "muller-the_race",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2019/10/the_race-1-500x350.jpg",
+    "subtitle": "starring Dina Asher-Smith"
+  },
+  {
+    "title": "WeatherTech \"Stinky Mats\"",
+    "vimeo_id": "1029408800",
+    "vimeo_src": "https://player.vimeo.com/video/1029408800?title=0&byline=0&portrait=0",
+    "agency": "Pinnacle",
+    "og_image": "/assets/uploads/2025/01/WeatherTech-thumbnail_DP_color-1024x576.jpeg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "weathertech-stinky-mats",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2025/01/WeatherTech-thumbnail_DP_color-500x350.jpeg",
+    "subtitle": ""
+  },
+  {
+    "title": "LEGO Dimensions \"Doc Brown\"",
+    "vimeo_id": "673705614",
+    "vimeo_src": "https://player.vimeo.com/video/673705614?title=0&byline=0&portrait=0",
+    "agency": "Hammer Creative",
+    "og_image": "/assets/uploads/2015/05/LEGO-Lloyd5-1024x742.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "lego-doc-brown",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2015/05/LEGO-Lloyd5-500x350.jpg",
+    "subtitle": "starring Christopher Lloyd"
+  },
+  {
+    "title": "Snickers \"Locker Room\"",
+    "vimeo_id": "89793541",
+    "vimeo_src": "https://player.vimeo.com/video/89793541?title=0&byline=0&portrait=0",
+    "agency": "AMV BBDO London",
+    "og_image": "/assets/uploads/2014/04/snickers-joan-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "snickers-locker-room",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/snickers-joan-1-500x350.jpg",
+    "subtitle": "starring Joan Collins"
+  },
+  {
+    "title": "The Rock & Roll Hall of Fame \"We All Rock\"",
+    "vimeo_id": "477782564",
+    "vimeo_src": "https://player.vimeo.com/video/477782564?title=0&byline=0&portrait=0",
+    "agency": "Rock & Roll Hall of Fame Induction Show (HBO)",
+    "og_image": "/assets/uploads/2020/11/RockHall1-1024x487.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "the-rock-roll-hall-of-fame-we-all-rock",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2020/11/RockHall1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Derek Zoolander, Male Model\"",
+    "vimeo_id": "90579357",
+    "vimeo_src": "https://player.vimeo.com/video/90579357?title=0&byline=0&portrait=0",
+    "agency": "VH1 Fashion Awards",
+    "og_image": "/assets/uploads/2014/04/zoolander-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "zoolander",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/zoolander-1-500x350.jpg",
+    "subtitle": "starring Ben Stiller"
+  },
+  {
+    "title": "BetVictor \"Baggage\"",
+    "vimeo_id": "673699669",
+    "vimeo_src": "https://player.vimeo.com/video/673699669?title=0&byline=0&portrait=0",
+    "agency": "VCCP London",
+    "og_image": "/assets/uploads/2014/04/betvictor-baggage-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "bet-victor-baggage",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/betvictor-baggage-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Sony \"Dive In\"",
+    "vimeo_id": "942085643",
+    "vimeo_src": "https://player.vimeo.com/video/942085643?title=0&byline=0&portrait=0",
+    "agency": "Jung von Matt, Hamburg",
+    "og_image": "/assets/uploads/2014/06/sony-Dive-In-thumbnail-ws3-1024x622.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "sony-dive-in",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/06/sony-Dive-In-thumbnail-ws3-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "VW \"Camel\"",
+    "vimeo_id": "673717011",
+    "vimeo_src": "https://player.vimeo.com/video/673717011?title=0&byline=0&portrait=0",
+    "agency": "Adam & Eve / DDB",
+    "og_image": "/assets/uploads/2016/02/Camel-4.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "vw-camel",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2016/02/Camel-4-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "A/C Pro \"Dog Days\"",
+    "vimeo_id": "673725248",
+    "vimeo_src": "https://player.vimeo.com/video/673725248?title=0&byline=0&portrait=0",
+    "agency": "Merkley & Partners",
+    "og_image": "/assets/uploads/2016/06/dogdays-2.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "ac-pro-dog-days",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2016/06/dogdays-2-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "AT&T \"Decisions\" (director's cut)",
+    "vimeo_id": "89797637",
+    "vimeo_src": "https://player.vimeo.com/video/89797637?title=0&byline=0&portrait=0",
+    "agency": "GSD&M",
+    "og_image": "/assets/uploads/2014/05/att-decisions-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "attdecisions",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/05/att-decisions-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "LEGO Dimensions \"Unikitty\"",
+    "vimeo_id": "140004487",
+    "vimeo_src": "https://player.vimeo.com/video/140004487?title=0&byline=0&portrait=0",
+    "agency": "Hammer Creative",
+    "og_image": "/assets/uploads/2015/09/LEGO-Brie2-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "lego-dimensions-alison-brie",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2015/09/LEGO-Brie2-1-500x350.jpg",
+    "subtitle": "starring Alison Brie"
+  },
+  {
+    "title": "The Oscars \"Illusion\"",
+    "vimeo_id": "673722265",
+    "vimeo_src": "https://player.vimeo.com/video/673722265?title=0&byline=0&portrait=0",
+    "agency": "ABC-TV",
+    "og_image": "/assets/uploads/2015/01/ABC-Oscars4-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "the-oscars-illusion",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2015/01/ABC-Oscars4-500x350.jpg",
+    "subtitle": "starring Neil Patrick Harris"
+  },
+  {
+    "title": "Head & Shoulders \"Catch\"",
+    "vimeo_id": "89944525",
+    "vimeo_src": "https://player.vimeo.com/video/89944525?title=0&byline=0&portrait=0",
+    "agency": "Saatchi & Saatchi",
+    "og_image": "/assets/uploads/2014/04/headshoulders-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "head-shoulders-catch",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/headshoulders-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "L'Oreal \"Tie A Tie\"",
+    "vimeo_id": "736945493",
+    "vimeo_src": "https://player.vimeo.com/video/736945493?title=0&byline=0&portrait=0",
+    "agency": "VCCP London",
+    "og_image": "/assets/uploads/2014/04/loreal-tie-a-tie-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "loreal-tie-a-tie",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/loreal-tie-a-tie-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "VW \"3 Cars\"",
+    "vimeo_id": "673713855",
+    "vimeo_src": "https://player.vimeo.com/video/673713855?title=0&byline=0&portrait=0",
+    "agency": "Adam & Eve / DDB",
+    "og_image": "/assets/uploads/2016/01/3Cars-3-1024x728.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "vw-3-cars",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2016/01/3Cars-3-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Harlan McCraney, Presidential Speechalist\"",
+    "vimeo_id": "90583017",
+    "vimeo_src": "https://player.vimeo.com/video/90583017?title=0&byline=0&portrait=0",
+    "agency": "Comedy Central’s Last Laugh",
+    "og_image": "/assets/uploads/2014/04/harlan-mccraney-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "harlan-mccraney-presidential-speechalist",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/harlan-mccraney-1-500x350.jpg",
+    "subtitle": "starring Andy Dick"
+  },
+  {
+    "title": "BetVictor \"Train\"",
+    "vimeo_id": "673697121",
+    "vimeo_src": "https://player.vimeo.com/video/673697121?title=0&byline=0&portrait=0",
+    "agency": "VCCP London",
+    "og_image": "/assets/uploads/2014/04/betvictor-train-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "bet-victor-train",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/betvictor-train-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Euronics \"Run Titan Run\"",
+    "vimeo_id": "673694281",
+    "vimeo_src": "https://player.vimeo.com/video/673694281?title=0&byline=0&portrait=0",
+    "agency": "Jung von Matt, Berlin",
+    "og_image": "/assets/uploads/2014/04/Euronics-Kahn21-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "euronics-run-titan-run-directors-cut",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/Euronics-Kahn21-400x400.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "CHECK24 \"Giant Basketball\"",
+    "vimeo_id": "148664904",
+    "vimeo_src": "https://player.vimeo.com/video/148664904?title=0&byline=0&portrait=0",
+    "agency": "CHECK24",
+    "og_image": "/assets/uploads/2016/03/Giant-Basketball.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "check-24giant-basketball",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2016/03/Giant-Basketball-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Queen Latifah in Twilight: New Moon\"",
+    "vimeo_id": "90600030",
+    "vimeo_src": "https://player.vimeo.com/video/90600030?title=0&byline=0&portrait=0",
+    "agency": "People’s Choice Awards starring Queen Latifah",
+    "og_image": "/assets/uploads/2014/05/NewMoon1-1024x601.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "queen-latifah-in-twilight-new-moon",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/05/NewMoon1-400x400.jpg",
+    "subtitle": "starring Queen Latifah"
+  },
+  {
+    "title": "It's Always Sunny In Philadelphia \"Friends\"",
+    "vimeo_id": "90068482",
+    "vimeo_src": "https://player.vimeo.com/video/90068482?title=0&byline=0&portrait=0",
+    "agency": "FX Network",
+    "og_image": "/assets/uploads/2014/04/always-sunny-friends-crop-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "its-always-sunny-in-philadelphia-friends",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/always-sunny-friends-crop-1-500x350.jpg",
+    "subtitle": "starring Rob McElhenney, Glenn Howerton, Charlie Day, Kaitlin Olson, and Danny DeVito"
+  },
+  {
+    "title": "Michelob Ultra Amber \"Touch Football\"",
+    "vimeo_id": "89815431",
+    "vimeo_src": "https://player.vimeo.com/video/89815431?title=0&byline=0&portrait=0",
+    "agency": "Cannonball",
+    "og_image": "/assets/uploads/2014/04/michelob-touch-football2.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "michelob-ultra-amber-touch-football",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/michelob-touch-football2-400x400.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Red Sox vs. MasterCard\"",
+    "vimeo_id": "90590163",
+    "vimeo_src": "https://player.vimeo.com/video/90590163?title=0&byline=0&portrait=0",
+    "agency": "Comedy Central's Last Laugh",
+    "og_image": "/assets/uploads/2014/04/redsox-mastercard3.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "red-sox-vs-mastercard",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/redsox-mastercard3-400x347.jpg",
+    "subtitle": "starring Denis Leary, Paul F. Tompkins, Brendan Small, Eddie Pepitone, Jackie Harris"
+  },
+  {
+    "title": "Missouri Lottery: Luckytown \"Coach\"",
+    "vimeo_id": "90575781",
+    "vimeo_src": "https://player.vimeo.com/video/90575781?title=0&byline=0&portrait=0",
+    "agency": "Barkley Evergreen & Partners",
+    "og_image": "/assets/uploads/2014/04/Luckytown-coach-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "missouri-lottery-luckytown-coach",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/Luckytown-coach-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Seattle Symphony \"Les Paul or Strat?\"",
+    "vimeo_id": "90577924",
+    "vimeo_src": "https://player.vimeo.com/video/90577924?title=0&byline=0&portrait=0",
+    "agency": "Cole & Weber, Seattle",
+    "og_image": "/assets/uploads/2014/04/les-paul-or-strat-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "seattle-symphony-les-paul-or-strat",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/les-paul-or-strat-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Behind The Scenes: Sony World Cup Films\"",
+    "vimeo_id": "97955799",
+    "vimeo_src": "https://player.vimeo.com/video/97955799?title=0&byline=0&portrait=0",
+    "agency": "",
+    "og_image": "/assets/uploads/2014/08/sony-making-of-thumbnail-1-1024x576.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "behind-the-scenes-sony",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/08/sony-making-of-thumbnail-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "\"Bruce Testones, Fashion Photographer\"",
+    "vimeo_id": "91764482",
+    "vimeo_src": "https://player.vimeo.com/video/91764482?title=0&byline=0&portrait=0",
+    "agency": "VH1 Fashion Awards",
+    "og_image": "/assets/uploads/2014/04/bruce-testones-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "bruce-testones-fashion-photographer",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/bruce-testones-1-500x350.jpg",
+    "subtitle": "starring Joe Rogan and Rose McGowan"
+  },
+  {
+    "title": "T-Mobile \"The Rambler\"",
+    "vimeo_id": "673689667",
+    "vimeo_src": "https://player.vimeo.com/video/673689667?title=0&byline=0&portrait=0",
+    "agency": "Publicis In The West",
+    "og_image": "/assets/uploads/2014/04/t-mobile-rambler-crop-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "t-mobile-the-rambler",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/t-mobile-rambler-crop-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Red Lobster \"Lint Man\"",
+    "vimeo_id": "90572495",
+    "vimeo_src": "https://player.vimeo.com/video/90572495?title=0&byline=0&portrait=0",
+    "agency": "Euro RSCG Tatham, Chicago",
+    "og_image": "/assets/uploads/2014/04/red-lobster-lint-man-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "red-lobster-lint-man",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/red-lobster-lint-man-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Rolling Rock \"Bowling\"",
+    "vimeo_id": "90078041",
+    "vimeo_src": "https://player.vimeo.com/video/90078041?title=0&byline=0&portrait=0",
+    "agency": "Ammirati Puris Lintas",
+    "og_image": "/assets/uploads/2014/04/rolling-rock-bowling-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "rolling-rock-bowling",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/rolling-rock-bowling-1-500x350.jpg",
+    "subtitle": "starring Jim Gaffigan"
+  },
+  {
+    "title": "Mark Lanegan \"House A Home\"",
+    "vimeo_id": "91052112",
+    "vimeo_src": "https://player.vimeo.com/video/91052112?title=0&byline=0&portrait=0",
+    "agency": "Sub Pop Records",
+    "og_image": "/assets/uploads/2014/04/lanegan-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "mark-lanegan-house-a-home",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/lanegan-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "Sunny Day Real Estate \"In Circles\"",
+    "vimeo_id": "91006476",
+    "vimeo_src": "https://player.vimeo.com/video/91006476?title=0&byline=0&portrait=0",
+    "agency": "Sub Pop Records",
+    "og_image": "/assets/uploads/2014/04/sunnydayrealestate-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "sunny-day-real-estate-in-circles",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/sunnydayrealestate-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+    "title": "The Lemonheads \"If I Could Talk I'd Tell You\"",
+    "vimeo_id": "91052114",
+    "vimeo_src": "https://player.vimeo.com/video/91052114?title=0&byline=0&portrait=0",
+    "agency": "Atlantic Records",
+    "og_image": "/assets/uploads/2014/04/lemonheads-1.jpg",
+    "featured_slugs": [
+      "snickers-buzz-mistake",
+      "jimdo-work_like_four",
+      "vw-back_home",
+      "jura-federer-robot"
+    ],
+    "slug": "the-lemonheads-if-i-could-talk-id-tell-you",
+    "featured_home": true,
+    "thumb": "/assets/uploads/2014/04/lemonheads-1-500x350.jpg",
+    "subtitle": ""
+  },
+  {
+  "title": "ABC “Men At Ten”",
+  "vimeo_id": "114607081",
+  "vimeo_src": "https://player.vimeo.com/video/114607081?title=0&byline=0&portrait=0",
+  "agency": "ABC-TV",
+  "og_image": "/assets/uploads/2014/12/castle-forever2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "abc-men-at-ten",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/castle-forever2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "AT&T “Decisions” (rage 1)",
+  "vimeo_id": "157855760",
+  "vimeo_src": "https://player.vimeo.com/video/157855760?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2016/03/att-decisions-rage1-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "attdecisions-rage-1",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/att-decisions-rage1-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "AT&T “Decisions” (rage 2)",
+  "vimeo_id": "157855691",
+  "vimeo_src": "https://player.vimeo.com/video/157855691?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2016/03/att-decisions-rage2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "attdecisions-rage-2",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/att-decisions-rage2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "All-Bran Snack Bites “Bruises”",
+  "vimeo_id": "89814136",
+  "vimeo_src": "https://player.vimeo.com/video/89814136?title=0&byline=0&portrait=0",
+  "agency": "Leo Burnett Toronto",
+  "og_image": "/assets/uploads/2014/04/bruises.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "all-bran-snack-bites-bruises",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/bruises.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Arizona Dept. of Health “Green Stuff”",
+  "vimeo_id": "100352935",
+  "vimeo_src": "https://player.vimeo.com/video/100352935?title=0&byline=0&portrait=0",
+  "agency": "Riester-Robb",
+  "og_image": "/assets/uploads/2014/07/AZ-Dept-Health.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "az-health-green-stuff",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/07/AZ-Dept-Health.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Armagedd’N Sync",
+  "vimeo_id": "91764481",
+  "vimeo_src": "https://player.vimeo.com/video/91764481?title=0&byline=0&portrait=0",
+  "agency": "MTV Movie Awards starring ‘N Sync, Clint Howard, and Lisa Kudrow",
+  "og_image": "/assets/uploads/2014/04/armageddnsync-crop.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "armageddn-sync",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/armageddnsync-crop.jpg",
+  "subtitle": ""
+},
+{
+  "title": "BetVictor “Pogo”",
+  "vimeo_id": "89769561",
+  "vimeo_src": "https://player.vimeo.com/video/89769561?title=0&byline=0&portrait=0",
+  "agency": "VCCP London",
+  "og_image": "/assets/uploads/2014/04/betvictor-pogo.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "bet-victor-pogo",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/betvictor-pogo.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Bonprix “Dodgems”",
+  "vimeo_id": "89793002",
+  "vimeo_src": "https://player.vimeo.com/video/89793002?title=0&byline=0&portrait=0",
+  "agency": "Jung von Matt, Hamburg",
+  "og_image": "/assets/uploads/2014/04/bonprix-dodgems-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "bonprix-dodgems",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/bonprix-dodgems-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Bonprix “Highest Fashion”",
+  "vimeo_id": "89793003",
+  "vimeo_src": "https://player.vimeo.com/video/89793003?title=0&byline=0&portrait=0",
+  "agency": "Jung von Matt, Hamburg",
+  "og_image": "/assets/uploads/2014/04/bonprix-highest-fashion-crop3-1024x680.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "bonprix-highest-fashion",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/bonprix-highest-fashion-crop3-1024x680.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Bud Light “Mariner”",
+  "vimeo_id": "89937774",
+  "vimeo_src": "https://player.vimeo.com/video/89937774?title=0&byline=0&portrait=0",
+  "agency": "Cannonball, St. Louis",
+  "og_image": "/assets/uploads/2014/04/budlight-mariner.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "bud-light-mariner",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/budlight-mariner.jpg",
+  "subtitle": ""
+},
+{
+  "title": "CHECK24 “Dream Car vs Dream Pool” (English)",
+  "vimeo_id": "191719819",
+  "vimeo_src": "https://player.vimeo.com/video/191719819?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2019/07/Dream-Car.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "check24-dreamcar-eng",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2019/07/Dream-Car.jpg",
+  "subtitle": ""
+},
+{
+  "title": "CHECK24 “Dream Car vs Dream Pool” (German)",
+  "vimeo_id": "349727796",
+  "vimeo_src": "https://player.vimeo.com/video/349727796?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2019/07/Dream-Car.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "check24-dreamcar-ger",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2019/07/Dream-Car.jpg",
+  "subtitle": ""
+},
+{
+  "title": "CHECK24 “Giant & Girlfriend”",
+  "vimeo_id": "159730503",
+  "vimeo_src": "https://player.vimeo.com/video/159730503?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2016/03/Giant-Girlfriend.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "check-24giant-girlfriend",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/Giant-Girlfriend.jpg",
+  "subtitle": ""
+},
+{
+  "title": "CHECK24 “Mary Changes Providers”",
+  "vimeo_id": "191722720",
+  "vimeo_src": "https://player.vimeo.com/video/191722720?title=0&byline=0&portrait=0",
+  "agency": "CHECK24",
+  "og_image": "/assets/uploads/2022/02/Mary-Changes-Providers-2-1024x789.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "check24mary-changes-providers",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2022/02/Mary-Changes-Providers-2-1024x789.jpg",
+  "subtitle": ""
+},
+{
+  "title": "CHECK24 “Our Song”",
+  "vimeo_id": "191722992",
+  "vimeo_src": "https://player.vimeo.com/video/191722992?title=0&byline=0&portrait=0",
+  "agency": "CHECK24",
+  "og_image": "/assets/uploads/2022/02/Our-Song-2-1024x814.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "check24our-song",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2022/02/Our-Song-2-1024x814.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Castaway Dick",
+  "vimeo_id": "91348827",
+  "vimeo_src": "https://player.vimeo.com/video/91348827?title=0&byline=0&portrait=0",
+  "agency": "MTV Movie Awards starring Andy Dick and Tom Hanks",
+  "og_image": "/assets/uploads/2014/04/castaway-crop-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "castaway-dick",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/castaway-crop-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Chevrolet “Wind Tunnel”",
+  "vimeo_id": "90574205",
+  "vimeo_src": "https://player.vimeo.com/video/90574205?title=0&byline=0&portrait=0",
+  "agency": "Campbell-Ewald",
+  "og_image": "/assets/uploads/2014/04/chevy-windtunnel.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "chevrolet-wind-tunnel",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/chevy-windtunnel.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Clam “Feel The Push”",
+  "vimeo_id": "120885142",
+  "vimeo_src": "https://player.vimeo.com/video/120885142?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2015/02/feel-the-push.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "clamfeel-the-push",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/feel-the-push.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Comcast “Jack”",
+  "vimeo_id": "90079546",
+  "vimeo_src": "https://player.vimeo.com/video/90079546?title=0&byline=0&portrait=0",
+  "agency": "Momentum",
+  "og_image": "/assets/uploads/2014/04/comcast-jack-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "comcast-jack",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/comcast-jack-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Community America “Jen”",
+  "vimeo_id": "120848909",
+  "vimeo_src": "https://player.vimeo.com/video/120848909?title=0&byline=0&portrait=0",
+  "agency": "Callahan Creek",
+  "og_image": "/assets/uploads/2015/02/CA-Jen.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "community-americajen",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/CA-Jen.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Community America “Kent”",
+  "vimeo_id": "120848910",
+  "vimeo_src": "https://player.vimeo.com/video/120848910?title=0&byline=0&portrait=0",
+  "agency": "Callahan Creek",
+  "og_image": "/assets/uploads/2015/02/CA-Kent.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "community-americakent",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/CA-Kent.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Community America “Sarah”",
+  "vimeo_id": "120848911",
+  "vimeo_src": "https://player.vimeo.com/video/120848911?title=0&byline=0&portrait=0",
+  "agency": "Callahan Creek",
+  "og_image": "/assets/uploads/2015/02/CA-Sarah.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "community-americasarah",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/CA-Sarah.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Cut The Crap with Clam",
+  "vimeo_id": "91760409",
+  "vimeo_src": "https://player.vimeo.com/video/91760409?title=0&byline=0&portrait=0",
+  "agency": "written and performed by Clam Lynch",
+  "og_image": "/assets/uploads/2014/04/cut-the-crap.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "cut-the-crap-with-clam",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/cut-the-crap.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Dead Invisible People",
+  "vimeo_id": "91767748",
+  "vimeo_src": "https://player.vimeo.com/video/91767748?title=0&byline=0&portrait=0",
+  "agency": "MTV starring Jay Johnston written by Jon Glaser",
+  "og_image": "/assets/uploads/2014/04/dead-invisible.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "dead-invisible-people",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/dead-invisible.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Everclear “Fire Maple Song”",
+  "vimeo_id": "91753888",
+  "vimeo_src": "https://player.vimeo.com/video/91753888?title=0&byline=0&portrait=0",
+  "agency": "Capitol Records",
+  "og_image": "/assets/uploads/2014/04/everclear.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "everclear-fire-maple-song",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/everclear.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Gold Bond “Frost A Cupcake”",
+  "vimeo_id": "90082704",
+  "vimeo_src": "https://player.vimeo.com/video/90082704?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/GoldBond-Frost-a-Cupcake.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "gold-bond-frost-a-cupcake",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/GoldBond-Frost-a-Cupcake.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Gold Bond “It’s Deep”",
+  "vimeo_id": "90082705",
+  "vimeo_src": "https://player.vimeo.com/video/90082705?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/GoldBond-Its-Deep.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "gold-bond-its-deep",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/GoldBond-Its-Deep.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Gold Bond “Scratching”",
+  "vimeo_id": "90082703",
+  "vimeo_src": "https://player.vimeo.com/video/90082703?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/GoldBond-Scratching.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "gold-bond-scratching",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/GoldBond-Scratching.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Gold Bond “The Rubbing”",
+  "vimeo_id": "90082706",
+  "vimeo_src": "https://player.vimeo.com/video/90082706?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/GoldBond-The-Rubbing.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "gold-bond-the-rubbing",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/GoldBond-The-Rubbing.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Greg Behrendt Does Not Rock",
+  "vimeo_id": "91764484",
+  "vimeo_src": "https://player.vimeo.com/video/91764484?title=0&byline=0&portrait=0",
+  "agency": "starring Greg Behrendt, Rhett Miller, Tom Morello",
+  "og_image": "/assets/uploads/2014/04/gbdnr-crop.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "greg-behrendt-does-not-rock",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/gbdnr-crop.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Hazel “Dayglo”",
+  "vimeo_id": "91339443",
+  "vimeo_src": "https://player.vimeo.com/video/91339443?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/hazel.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "hazel-dayglo",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/hazel.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Head & Shoulders VFX Breakdown",
+  "vimeo_id": "159733416",
+  "vimeo_src": "https://player.vimeo.com/video/159733416?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2016/03/HeadShoulders-VFX.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "head-shouldersvfx-breakdown",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/HeadShoulders-VFX.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Here’s To Beer “Doug”",
+  "vimeo_id": "101643876",
+  "vimeo_src": "https://player.vimeo.com/video/101643876?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "heres-to-beer-doug",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Here’s To Beer “Kitty”",
+  "vimeo_id": "116085559",
+  "vimeo_src": "https://player.vimeo.com/video/116085559?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2015/01/heres-to-beer-kitty2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "heres-to-beerkitty-2",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/heres-to-beer-kitty2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Here’s To Beer “Kitty” (short version)",
+  "vimeo_id": "114365495",
+  "vimeo_src": "https://player.vimeo.com/video/114365495?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2015/01/heres-to-beer-kitty2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "heres-to-beerkitty",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/heres-to-beer-kitty2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Jenny McCarthy Show “Jenny In The Window”",
+  "vimeo_id": "103946326",
+  "vimeo_src": "https://player.vimeo.com/video/103946326?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/08/jenny-in-the-window.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "jenny-in-the-window",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/08/jenny-in-the-window.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Jimmy Dean “Deli”",
+  "vimeo_id": "107281273",
+  "vimeo_src": "https://player.vimeo.com/video/107281273?title=0&byline=0&portrait=0",
+  "agency": "TBWA\\CHIAT\\DAY",
+  "og_image": "/assets/uploads/2014/09/jimmy-dean-deli2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "jimmy-dean-deli",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/09/jimmy-dean-deli2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Jimmy Dean “Food Court”",
+  "vimeo_id": "107276932",
+  "vimeo_src": "https://player.vimeo.com/video/107276932?title=0&byline=0&portrait=0",
+  "agency": "TBWA\\CHIAT\\DAY",
+  "og_image": "/assets/uploads/2014/09/jimmy-dean-food-court1-1024x768.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "jimmy-dean-food-court",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/09/jimmy-dean-food-court1-1024x768.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Jimmy Dean “Microwave”",
+  "vimeo_id": "114395625",
+  "vimeo_src": "https://player.vimeo.com/video/114395625?title=0&byline=0&portrait=0",
+  "agency": "TBWA\\CHIAT\\DAY",
+  "og_image": "/assets/uploads/2014/12/jimmy-dean-microwave2-1024x741.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "jimmy-dean-microwave",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/jimmy-dean-microwave2-1024x741.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Jimmy Dean “Toasty”",
+  "vimeo_id": "114395626",
+  "vimeo_src": "https://player.vimeo.com/video/114395626?title=0&byline=0&portrait=0",
+  "agency": "TBWA\\CHIAT\\DAY",
+  "og_image": "/assets/uploads/2014/12/jimmy-dean-toasty2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "jimmy-dean-toasty",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/jimmy-dean-toasty2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Kinder Country – Airbag Reference",
+  "vimeo_id": "119655710",
+  "vimeo_src": "https://player.vimeo.com/video/119655710?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "kc-airbag-reference",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Kinder Country – Massage Chair Reference",
+  "vimeo_id": "119655711",
+  "vimeo_src": "https://player.vimeo.com/video/119655711?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "kc-massage-chair-reference",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "LHN “Vince”",
+  "vimeo_id": "101254882",
+  "vimeo_src": "https://player.vimeo.com/video/101254882?title=0&byline=0&portrait=0",
+  "agency": "UT Austin Creative",
+  "og_image": "/assets/uploads/2014/07/vince1-1024x869.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "lhn-vince",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/07/vince1-1024x869.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Ladbrokes “Tiziano At The Races”",
+  "vimeo_id": "90078343",
+  "vimeo_src": "https://player.vimeo.com/video/90078343?title=0&byline=0&portrait=0",
+  "agency": "SapientNitro London",
+  "og_image": "/assets/uploads/2014/04/ladbrokes-tiziano.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "ladbrokes-tiziano-at-the-races",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/ladbrokes-tiziano.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Lending Tree “Lenny’s News”",
+  "vimeo_id": "103561742",
+  "vimeo_src": "https://player.vimeo.com/video/103561742?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/08/Lending-Tree-thumbnail.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "lending-tree-lennys-news",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/08/Lending-Tree-thumbnail.jpg",
+  "subtitle": ""
+},
+{
+  "title": "L’Oreal “App”",
+  "vimeo_id": "89813067",
+  "vimeo_src": "https://player.vimeo.com/video/89813067?title=0&byline=0&portrait=0",
+  "agency": "VCCP London",
+  "og_image": "/assets/uploads/2014/04/loreal-app-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "loreal-app",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/loreal-app-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "L’Oreal “Pick A Lock”",
+  "vimeo_id": "89813069",
+  "vimeo_src": "https://player.vimeo.com/video/89813069?title=0&byline=0&portrait=0",
+  "agency": "VCCP London",
+  "og_image": "/assets/uploads/2014/04/loreal-lock-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "loreal-pick-a-lock",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/loreal-lock-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "L’Oreal “Profile”",
+  "vimeo_id": "89813068",
+  "vimeo_src": "https://player.vimeo.com/video/89813068?title=0&byline=0&portrait=0",
+  "agency": "VCCP London",
+  "og_image": "/assets/uploads/2014/04/loreal-profile-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "loreal-profile",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/loreal-profile-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "McDonald’s “Sears Tower”",
+  "vimeo_id": "98953264",
+  "vimeo_src": "https://player.vimeo.com/video/98953264?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/mcd-sears-tower.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "mcdonalds-sears-tower-spanish",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/mcd-sears-tower.jpg",
+  "subtitle": ""
+},
+{
+  "title": "McDonald’s “Skybox”",
+  "vimeo_id": "98954825",
+  "vimeo_src": "https://player.vimeo.com/video/98954825?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/mcd-skybox.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "mcdonalds-skybox-spanish",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/mcd-skybox.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Missouri Lottery “Office Offense”",
+  "vimeo_id": "159568045",
+  "vimeo_src": "https://player.vimeo.com/video/159568045?title=0&byline=0&portrait=0",
+  "agency": "Adamson, St. Louis",
+  "og_image": "/assets/uploads/2016/03/Office-Offense.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "missouri-lotteryoffice-offense",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/Office-Offense.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Motorola “Digital Parenting”",
+  "vimeo_id": "106600307",
+  "vimeo_src": "https://player.vimeo.com/video/106600307?title=0&byline=0&portrait=0",
+  "agency": "Ogilvy & Mather, NYC",
+  "og_image": "/assets/uploads/2014/09/motorola-digital-parenting.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "motorola-digital-parenting",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/09/motorola-digital-parenting.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Müller “I Run”",
+  "vimeo_id": "313845449",
+  "vimeo_src": "https://player.vimeo.com/video/313845449?title=0&byline=0&portrait=0",
+  "agency": "starring Dina Asher-Smith",
+  "og_image": "/assets/uploads/2022/02/I-Run2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "muller_i-run",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2022/02/I-Run2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "NACME “Intercom”",
+  "vimeo_id": "90573269",
+  "vimeo_src": "https://player.vimeo.com/video/90573269?title=0&byline=0&portrait=0",
+  "agency": "MVBMS/Euro RSCG",
+  "og_image": "/assets/uploads/2014/04/nacme-intercom.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "nacme-intercom",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/nacme-intercom.jpg",
+  "subtitle": ""
+},
+{
+  "title": "NCAA “Ultrasound”",
+  "vimeo_id": "120527902",
+  "vimeo_src": "https://player.vimeo.com/video/120527902?title=0&byline=0&portrait=0",
+  "agency": "Caldwell VanRiper",
+  "og_image": "/assets/uploads/2015/02/NCAA-Ultrasound.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "ncaa-ultrasound",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/NCAA-Ultrasound.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Nutri-Grain “Secret Ingredient”",
+  "vimeo_id": "89937151",
+  "vimeo_src": "https://player.vimeo.com/video/89937151?title=0&byline=0&portrait=0",
+  "agency": "Leo Burnett Toronto",
+  "og_image": "/assets/uploads/2014/04/nutri-grain.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "nutri-grain-secret-ingredient",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/nutri-grain.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Outback Steakhouse “Heart of Gold”",
+  "vimeo_id": "89813354",
+  "vimeo_src": "https://player.vimeo.com/video/89813354?title=0&byline=0&portrait=0",
+  "agency": "Kaplan Thaler Group",
+  "og_image": "/assets/uploads/2014/04/outback-heart-of-gold.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "outback-steakhouse-heartofgold",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/outback-heart-of-gold.jpg",
+  "subtitle": ""
+},
+{
+  "title": "PGA “Caddy School”",
+  "vimeo_id": "92179039",
+  "vimeo_src": "https://player.vimeo.com/video/92179039?title=0&byline=0&portrait=0",
+  "agency": "CMD",
+  "og_image": "/assets/uploads/2014/04/pga-caddy2-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "pga-caddy-school",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/pga-caddy2-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "PGA “Divers”",
+  "vimeo_id": "89977503",
+  "vimeo_src": "https://player.vimeo.com/video/89977503?title=0&byline=0&portrait=0",
+  "agency": "CMD",
+  "og_image": "/assets/uploads/2014/04/pga-divers3.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "pga-divers",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/pga-divers3.jpg",
+  "subtitle": ""
+},
+{
+  "title": "PGA “Marshall”",
+  "vimeo_id": "89976644",
+  "vimeo_src": "https://player.vimeo.com/video/89976644?title=0&byline=0&portrait=0",
+  "agency": "CMD",
+  "og_image": "/assets/uploads/2014/04/pga-marshall.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "pga-marshall",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/pga-marshall.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Pond “Spots”",
+  "vimeo_id": "91757208",
+  "vimeo_src": "https://player.vimeo.com/video/91757208?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/pond.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "pond-spots",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/pond.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Queen Latifah in Paranormal Activity",
+  "vimeo_id": "90600031",
+  "vimeo_src": "https://player.vimeo.com/video/90600031?title=0&byline=0&portrait=0",
+  "agency": "People’s Choice Awards starring Queen Latifah",
+  "og_image": "/assets/uploads/2014/05/paranormal2-1024x664.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "queen-latifah-in-paranormal-activity",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/05/paranormal2-1024x664.jpg",
+  "subtitle": ""
+},
+{
+  "title": "STYLE with Elsa Klensch",
+  "vimeo_id": "91764483",
+  "vimeo_src": "https://player.vimeo.com/video/91764483?title=0&byline=0&portrait=0",
+  "agency": "VH1 Fashion Awards starring Jack Plotnick, Jon Favreau, Mary Lynn Rajskub, Jennifer Tilly, Eric Roberts",
+  "og_image": "/assets/uploads/2014/04/elsa-klensch-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "style-with-elsa-klensch",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/elsa-klensch-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "SciFi Channel “Jedi Whupass”",
+  "vimeo_id": "105282662",
+  "vimeo_src": "https://player.vimeo.com/video/105282662?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "scifi-channel-jedi-whupass",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Sears “Thanksgiving”",
+  "vimeo_id": "120527426",
+  "vimeo_src": "https://player.vimeo.com/video/120527426?title=0&byline=0&portrait=0",
+  "agency": "Hallmark",
+  "og_image": "/assets/uploads/2015/02/Sears1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sears-thanksgiving",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/02/Sears1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sebadoh “Skull”",
+  "vimeo_id": "91052111",
+  "vimeo_src": "https://player.vimeo.com/video/91052111?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/sebadoh.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sebadoh-skull",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/sebadoh.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Air Horn”",
+  "vimeo_id": "97994645",
+  "vimeo_src": "https://player.vimeo.com/video/97994645?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-air-horn-thumbnail-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-air-horn",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-air-horn-thumbnail-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Dive In” (short version)",
+  "vimeo_id": "97994644",
+  "vimeo_src": "https://player.vimeo.com/video/97994644?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-dive-in-thumbnail-1024x778.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-dive-in",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-dive-in-thumbnail-1024x778.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Flip”",
+  "vimeo_id": "97996378",
+  "vimeo_src": "https://player.vimeo.com/video/97996378?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-flip-thumbnail-1024x794.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-flip",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-flip-thumbnail-1024x794.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Hymn”",
+  "vimeo_id": "97994641",
+  "vimeo_src": "https://player.vimeo.com/video/97994641?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-hymn-thumbnail-1024x576.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-hymn",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-hymn-thumbnail-1024x576.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Overhead”",
+  "vimeo_id": "97994646",
+  "vimeo_src": "https://player.vimeo.com/video/97994646?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-overhead-thumbnail-1024x871.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-overhead",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-overhead-thumbnail-1024x871.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Sony World Cup “Weightless”",
+  "vimeo_id": "97994642",
+  "vimeo_src": "https://player.vimeo.com/video/97994642?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/06/sony-weightless-thumbnail-1024x732.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "sony-world-cup-weightless",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/06/sony-weightless-thumbnail-1024x732.jpg",
+  "subtitle": ""
+},
+{
+  "title": "T-Mobile “Mr. Two Times”",
+  "vimeo_id": "90066900",
+  "vimeo_src": "https://player.vimeo.com/video/90066900?title=0&byline=0&portrait=0",
+  "agency": "Publicis In The West",
+  "og_image": "/assets/uploads/2014/04/t-mobile-two-times.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "t-mobile-mr-two-times",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/t-mobile-two-times.jpg",
+  "subtitle": ""
+},
+{
+  "title": "T-Mobile “The Ummer”",
+  "vimeo_id": "90067103",
+  "vimeo_src": "https://player.vimeo.com/video/90067103?title=0&byline=0&portrait=0",
+  "agency": "Publicis In The West",
+  "og_image": "/assets/uploads/2014/04/t-mobile-ummer.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "t-mobile-the-ummer",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/t-mobile-ummer.jpg",
+  "subtitle": ""
+},
+{
+  "title": "TNA Impact “Crash”",
+  "vimeo_id": "90079098",
+  "vimeo_src": "https://player.vimeo.com/video/90079098?title=0&byline=0&portrait=0",
+  "agency": "Hammer Creative",
+  "og_image": "/assets/uploads/2014/04/tna-crash.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tna-impact-crash",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/tna-crash.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Target “Dance”",
+  "vimeo_id": "89935233",
+  "vimeo_src": "https://player.vimeo.com/video/89935233?title=0&byline=0&portrait=0",
+  "agency": "Peterson Milla Hooks",
+  "og_image": "/assets/uploads/2014/04/target-dance-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "target-dance",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/target-dance-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Target “Dogs”",
+  "vimeo_id": "121370610",
+  "vimeo_src": "https://player.vimeo.com/video/121370610?title=0&byline=0&portrait=0",
+  "agency": "Peterson Milla Hooks",
+  "og_image": "/assets/uploads/2015/03/Target-Dogs.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "targetdogs",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/03/Target-Dogs.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Target “Grandma/Football”",
+  "vimeo_id": "117406432",
+  "vimeo_src": "https://player.vimeo.com/video/117406432?title=0&byline=0&portrait=0",
+  "agency": "Peterson Milla Hooks",
+  "og_image": "/assets/uploads/2015/01/target-suave-clorox.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "targetgrandmafootball",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/target-suave-clorox.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Target “Guitar/Party”",
+  "vimeo_id": "90076940",
+  "vimeo_src": "https://player.vimeo.com/video/90076940?title=0&byline=0&portrait=0",
+  "agency": "Peterson Milla Hooks",
+  "og_image": "/assets/uploads/2014/04/target-guitar-party.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "target-guitarparty",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/target-guitar-party.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Target “Holiday Gift Cards”",
+  "vimeo_id": "101252764",
+  "vimeo_src": "https://player.vimeo.com/video/101252764?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "target-holiday-gift-cards",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Target “My Kind of Holiday: Stella’s Gift”",
+  "vimeo_id": "241593887",
+  "vimeo_src": "https://player.vimeo.com/video/241593887?title=0&byline=0&portrait=0",
+  "agency": "ABC-TV",
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "target-mkoh-stellas-gift",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Terasen Gas “Comfort: Cats”",
+  "vimeo_id": "114366483",
+  "vimeo_src": "https://player.vimeo.com/video/114366483?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/12/Terasen-Cats.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "terasen-gascomfort-cats",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/Terasen-Cats.jpg",
+  "subtitle": ""
+},
+{
+  "title": "The Grifters “Last Man Alive”",
+  "vimeo_id": "91052113",
+  "vimeo_src": "https://player.vimeo.com/video/91052113?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/grifters1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "the-grifters-last-man-alive",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/grifters1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "The Oscars “New Year’s Resolutions”",
+  "vimeo_id": "116083536",
+  "vimeo_src": "https://player.vimeo.com/video/116083536?title=0&byline=0&portrait=0",
+  "agency": "ABC-TV",
+  "og_image": "/assets/uploads/2015/01/ABC-Oscars2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "abc-oscars-resolutions",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/ABC-Oscars2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "The Spinanes “Noel, Jonah, and Me”",
+  "vimeo_id": "91364092",
+  "vimeo_src": "https://player.vimeo.com/video/91364092?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/spinanes-noel.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "the-spinanes-noel-jonah-and-me",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/spinanes-noel.jpg",
+  "subtitle": ""
+},
+{
+  "title": "The Spinanes “Sunday”",
+  "vimeo_id": "91756682",
+  "vimeo_src": "https://player.vimeo.com/video/91756682?title=0&byline=0&portrait=0",
+  "agency": "Sub Pop Records",
+  "og_image": "/assets/uploads/2014/04/spinanes-sunday.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "the-spinanes-sunday",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/spinanes-sunday.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Tic Tac “Bus”",
+  "vimeo_id": "90080069",
+  "vimeo_src": "https://player.vimeo.com/video/90080069?title=0&byline=0&portrait=0",
+  "agency": "WCRS London",
+  "og_image": "/assets/uploads/2014/04/tic-tac-bus.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tic-tac-bus",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/tic-tac-bus.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Tic Tac “Pit Stop”",
+  "vimeo_id": "90080068",
+  "vimeo_src": "https://player.vimeo.com/video/90080068?title=0&byline=0&portrait=0",
+  "agency": "WCRS (London)",
+  "og_image": "/assets/uploads/2014/04/tic-tac-pit-stop.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tic-tac-pit-stop",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/tic-tac-pit-stop.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Tide “Betty’s Name”",
+  "vimeo_id": "114366078",
+  "vimeo_src": "https://player.vimeo.com/video/114366078?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/12/betty-with-cat2.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tidebettys-name",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/betty-with-cat2.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Tide “Bunker”",
+  "vimeo_id": "89800236",
+  "vimeo_src": "https://player.vimeo.com/video/89800236?title=0&byline=0&portrait=0",
+  "agency": "starring Betty White",
+  "og_image": "/assets/uploads/2014/04/betty-still-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tide-bunker",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/betty-still-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Tide “Little White Dress”",
+  "vimeo_id": "159734109",
+  "vimeo_src": "https://player.vimeo.com/video/159734109?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2016/03/LittleWhiteDress.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "tide-little-white-dress",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2016/03/LittleWhiteDress.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Trifexis “3 Dogs”",
+  "vimeo_id": "223486038",
+  "vimeo_src": "https://player.vimeo.com/video/223486038?title=0&byline=0&portrait=0",
+  "agency": "Callahan Creek",
+  "og_image": "/assets/uploads/2022/02/Trifexis-2-1024x721.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "trifexis3-dogs",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2022/02/Trifexis-2-1024x721.jpg",
+  "subtitle": ""
+},
+{
+  "title": "UK COI “Briefing”",
+  "vimeo_id": "121371408",
+  "vimeo_src": "https://player.vimeo.com/video/121371408?title=0&byline=0&portrait=0",
+  "agency": "St. Lukes",
+  "og_image": "/assets/uploads/2015/03/COI-briefing.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "uk-coibriefing",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/03/COI-briefing.jpg",
+  "subtitle": ""
+},
+{
+  "title": "We Need To Talk About Kitten",
+  "vimeo_id": "91758184",
+  "vimeo_src": "https://player.vimeo.com/video/91758184?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/we-need-to-talk-crop-1024x495.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "we-need-to-talk-about-kitten",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/we-need-to-talk-crop-1024x495.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Westar “Dark”",
+  "vimeo_id": "114365743",
+  "vimeo_src": "https://player.vimeo.com/video/114365743?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/12/Westar-Dark.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "westardark",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/12/Westar-Dark.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Worst Week (CBS) “Glass”",
+  "vimeo_id": "117811997",
+  "vimeo_src": "https://player.vimeo.com/video/117811997?title=0&byline=0&portrait=0",
+  "agency": "CBS-TV",
+  "og_image": "/assets/uploads/2015/01/worstweek-glass-1.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "worst-week-glass",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/worstweek-glass-1.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Worst Week (CBS) “Sexy City”",
+  "vimeo_id": "117819403",
+  "vimeo_src": "https://player.vimeo.com/video/117819403?title=0&byline=0&portrait=0",
+  "agency": "CBS-TV",
+  "og_image": "/assets/uploads/2015/01/worstweek-sexy-city.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "worst-week-sexy-city",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/worstweek-sexy-city.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Worst Week (CBS) “Taxi”",
+  "vimeo_id": "117761090",
+  "vimeo_src": "https://player.vimeo.com/video/117761090?title=0&byline=0&portrait=0",
+  "agency": "CBS-TV",
+  "og_image": "/assets/uploads/2015/01/worstweek-taxi.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "worst-week-taxi",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2015/01/worstweek-taxi.jpg",
+  "subtitle": ""
+},
+{
+  "title": "Your Health Idaho “Ka-Ching”",
+  "vimeo_id": "312135575",
+  "vimeo_src": "https://player.vimeo.com/video/312135575?title=0&byline=0&portrait=0",
+  "agency": "Drake Cooper, Boise",
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "your-health-idaho_ka-ching",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Your Health Idaho “Medley”",
+  "vimeo_id": "312123621",
+  "vimeo_src": "https://player.vimeo.com/video/312123621?title=0&byline=0&portrait=0",
+  "agency": "Drake Cooper, Boise",
+  "og_image": null,
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "your-health-idaho_medley",
+  "featured_home": false,
+  "thumb": null,
+  "subtitle": ""
+},
+{
+  "title": "Zoolander “Hostage Negotiator”",
+  "vimeo_id": "90081898",
+  "vimeo_src": "https://player.vimeo.com/video/90081898?title=0&byline=0&portrait=0",
+  "agency": null,
+  "og_image": "/assets/uploads/2014/04/zoolander-hostage-negotiator.jpg",
+  "featured_slugs": [
+    "snickers-buzz-mistake",
+    "jimdo-work_like_four",
+    "vw-back_home",
+    "jura-federer-robot"
+  ],
+  "slug": "zoolander-hostage-negotiator",
+  "featured_home": false,
+  "thumb": "/assets/uploads/2014/04/zoolander-hostage-negotiator.jpg",
+  "subtitle": ""
+}
+]

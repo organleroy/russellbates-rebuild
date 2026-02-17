@@ -1,9 +1,90 @@
 ---
 layout: base.njk
-title: About/Contact — Russell Bates
+title: About / Contact — Russell Bates
+permalink: /about/
 ---
-<h1 class="page-title">About/Contact</h1>
 
-<div class="prose">
-  <p>Replace this with your bio + contact details. (We’ll extract your current About page next.)</p>
+<section class="about-page">
+  <div class="about-inner">
+
+    <div class="about-grid">
+
+<div class="about-bio">
+
+  <div class="prose about-prose">
+
+    <p class="about-lead"><strong>Russell Bates</strong> first carved his place in pop culture by co-creating and naming the character of Derek Zoolander when he directed and edited the short film “Derek Zoolander: Male Model” starring Ben Stiller for the VH1 Fashion Awards.</p>
+
+    <p>Drawing on a talent for rigorous casting, witty and naturalistic performances, and highly cinematic imagery, Russell creates films that are much loved around the world.</p>
+
+    <p>He’s most recently directed campaigns for Jimdo, Volkswagen, Müller, Jura, The Oscars (ABC-TV), Sony, Head &amp; Shoulders, Tide (starring Betty White), Snickers (starring Joan Collins and honored by Cannes Lions and the London International Award), Axe, L’Oreal, and Jimmy Dean.</p>
+
+    <p>Russell has also directed comedic shorts for the MTV Movie Awards, Comedy Central, and the People’s Choice Awards.</p>
+
+    <p>His featured actors have included Neil Patrick Harris, Queen Latifah, Danny DeVito, Will Ferrell, Jon Favreau, Owen Wilson, Christopher Lloyd, Jemaine Clement, Jennifer Tilly, Andy Dick, Jimmy Kimmel, Patton Oswalt, Nathan Fillion, Jim Gaffigan, Lisa Kudrow, Billy Crystal, Charlie Day, Ioan Gruffudd, Alison Brie, Jon Glaser, Wayne Newton, Joe Rogan and N’Sync.</p>
+
+    <p>He’s directed the athletes Roger Federer, Katarina Johnson-Thompson, Luka Modrić, Dina Asher-Smith, Bukayo Saka, Larry Nance Jr., C.J. Wilson, Josh Hamilton, Austin Dillon, David Robinson, Phil Simms, Cris Carter, and Oliver Kahn.</p>
+
+    <p>A graduate of UCLA Film School, Russell’s an avid surfer and cyclist, and is a contributing writer for the music blog Sound It Out. He’s also a beekeeper and co-founder of the Backwards Beekeepers, an all-organic educational and advocacy collective.</p>
+
+  </div>
 </div>
+
+      <div class="about-form">
+
+        <div class="about-form-head">
+          <div class="about-form-title">CONTACT</div>
+          <div class="about-form-meta">(ALL FIELDS REQUIRED)</div>
+        </div>
+
+        <form
+          class="contact-form"
+          action="https://script.google.com/macros/s/AKfycbzf-f79d7t2UwY0Y9IGqpkOb6WBYCuaH5N_L_I08_t4Wq4DMGyt3pdLpwPoXN9IqXMycA/exec"
+          method="POST"
+          target="hidden_iframe"
+          onsubmit="setTimeout(function(){ window.location='/thanks/'; }, 400);"
+        >
+
+          <!-- REQUIRED FOR SILENT SUBMIT -->
+          <iframe name="hidden_iframe" style="display:none;"></iframe>
+
+          <p class="form-row">
+            <label class="form-label">
+              Name
+              <input class="form-field" type="text" name="name" required>
+            </label>
+          </p>
+
+          <!-- HONEYPOT (ANTI-SPAM) -->
+          <p class="hp-field">
+            <label class="form-label">
+              Company
+              <input class="form-field" type="text" name="company" tabindex="-1" autocomplete="off">
+            </label>
+          </p>
+
+          <p class="form-row">
+            <label class="form-label">
+              Email
+              <input class="form-field" type="email" name="email" required>
+            </label>
+          </p>
+
+          <p class="form-row">
+            <label class="form-label">
+              Message
+              <textarea class="form-field form-textarea" name="message" rows="6" required></textarea>
+            </label>
+          </p>
+
+          <p class="form-row form-actions">
+            <button class="form-button" type="submit">Send</button>
+          </p>
+
+        </form>
+
+      </div>
+
+    </div>
+  </div>
+</section>
