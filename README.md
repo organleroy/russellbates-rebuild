@@ -1,32 +1,34 @@
-# Russell Bates Portfolio (Eleventy rebuild)
+# russellbates-rebuild (ARCHIVED)
 
-## 1) Install
-```bash
-npm install
-```
+This repository contains the **historical Eleventy rebuild work** for  
+**russellbates.com**, created during the migration from WordPress to a
+modern static Eleventy (11ty) site.
 
-## 2) Extract content + thumbnails from your Simply Static export
-First unzip your Simply Static export somewhere, then run:
+## Status
 
-```bash
-python3 -m pip install beautifulsoup4
-npm run extract -- /path/to/simply-static-export
-```
+🚫 **This repository is NOT the live site.**  
+🚫 **Do not make changes here expecting them to deploy.**
 
-This will:
-- generate `src/content/projects.json`
-- copy `/wp-content/uploads/` into `src/assets/uploads/`
+It is preserved as a **reference archive** only.
 
-## 3) Run locally
-```bash
-npm run dev
-```
-Open http://localhost:8080
+## Live Site
 
-## 4) Build
-```bash
-npm run build
-```
+The live, deployed site now lives in:
 
-## 5) Deploy to GitHub Pages
-Commit + push the generated project source (NOT the `_site` folder) and let Pages build from branch.
+👉 https://github.com/organleroy/organleroy.github.io
+
+All active development, fixes, and enhancements should be made there.
+
+## Why this repo still exists
+
+This archive is intentionally retained to:
+
+- Preserve architectural and editorial decision history
+- Serve as a reference for how the rebuild evolved
+- Avoid mixing historical work into the live deployment repo
+
+It may be read, searched, or referenced — but should not be extended.
+
+---
+
+_Last updated: Eleventy site live and deployed via GitHub Pages._
